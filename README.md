@@ -1,16 +1,122 @@
-# React + Vite
+# 📄 Resume Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional Resume Generator web application built using **React JS**.  
+This project allows users to create modern resumes dynamically with live preview and export functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🚀 Features
 
-## React Compiler
+- 📝 Dynamic resume form
+- 👀 Live resume preview
+- 📄 Professional resume layout
+- 🖼 Upload profile image
+- ➕ Add skills dynamically
+- 💼 Add work experience
+- 🔗 Add social/profile links
+- 📍 Location & contact details
+- 🖨 Print / Save as PDF
+- 📥 Export resume data as JSON
+- 📱 Fully responsive design
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React JS
+- JavaScript
+- CSS
+- HTML5
+
+---
+
+# 📸 Screenshots
+
+## 📝 Resume Input Form
+
+![Input](./screenshots/Input-page.png)
+
+## 📄 Resume Output Page
+
+![Output](./screenshots/output-page.png)
+
+## 👀 Resume Preview
+
+![Preview](./screenshots/resume-preview.png)
+
+---
+
+# 📂 Folder Structure
+
+```bash
+src/
+ ┣ components/
+ ┣ pages/
+ ┣ assets/
+ ┣ App.jsx
+ ┣ main.jsx
+ ┗ index.css
+```
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository
+
+```bash
+git clone https://github.com/harshitraj7304/resume-generator.git
+```
+
+Go to project folder
+
+```bash
+cd resume-generator
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
+
+```bash
+npm run dev
+```
+
+---
+
+# 🌐 Live Demo
+
+```bash
+Coming Soon...
+```
+
+(Add Netlify/Vercel link later)
+
+---
+
+# 📌 Future Improvements
+
+- 🌙 Dark Mode
+- 📄 Multiple Resume Templates
+- ☁ Cloud Save Feature
+- 🔐 Authentication System
+- 📱 Better Mobile Optimization
+
+---
+
+# 👨‍💻 Author
+
+**Harshit Raj**
+
+- GitHub: https://github.com/harshitraj7304
+- LinkedIn: https://linkedin.com/in/harshit-raj-35a657229
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
